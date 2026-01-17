@@ -1,0 +1,901 @@
+CustomerID,CustomerSegment,State,Device
+C00001,Consumer,MA,Android
+C00002,Consumer,NY,Desktop
+C00003,Small Business,NC,Android
+C00004,Small Business,NC,Android
+C00005,Consumer,VA,Desktop
+C00006,Consumer,CA,Desktop
+C00007,Consumer,MI,Desktop
+C00008,Consumer,GA,Android
+C00009,Small Business,GA,Desktop
+C00010,Consumer,CA,Android
+C00011,Consumer,GA,Android
+C00012,Consumer,OH,iOS
+C00013,Small Business,PA,Android
+C00014,Small Business,VA,Android
+C00015,Small Business,MI,Desktop
+C00016,Consumer,NY,iOS
+C00017,Enterprise,CA,Desktop
+C00018,Enterprise,MI,iOS
+C00019,Consumer,VA,iOS
+C00020,Consumer,PA,Android
+C00021,Consumer,MA,iOS
+C00022,Consumer,WA,Android
+C00023,Small Business,AZ,Desktop
+C00024,Consumer,GA,Android
+C00025,Consumer,PA,iOS
+C00026,Consumer,IL,Desktop
+C00027,Small Business,AZ,iOS
+C00028,Consumer,PA,iOS
+C00029,Consumer,FL,iOS
+C00030,Consumer,AZ,Android
+C00031,Small Business,OH,iOS
+C00032,Consumer,VA,Desktop
+C00033,Consumer,MI,iOS
+C00034,Small Business,VA,Desktop
+C00035,Consumer,OH,Android
+C00036,Consumer,TX,iOS
+C00037,Consumer,WA,iOS
+C00038,Consumer,MA,Desktop
+C00039,Consumer,GA,Android
+C00040,Consumer,NC,Android
+C00041,Consumer,TX,Android
+C00042,Consumer,FL,iOS
+C00043,Consumer,GA,iOS
+C00044,Small Business,VA,Desktop
+C00045,Consumer,NC,Android
+C00046,Consumer,NY,iOS
+C00047,Small Business,NC,Android
+C00048,Consumer,IL,Desktop
+C00049,Consumer,GA,Android
+C00050,Small Business,MI,iOS
+C00051,Consumer,NY,Desktop
+C00052,Small Business,MA,iOS
+C00053,Consumer,GA,iOS
+C00054,Consumer,GA,Android
+C00055,Consumer,MA,Android
+C00056,Enterprise,TX,iOS
+C00057,Small Business,AZ,Desktop
+C00058,Consumer,NC,iOS
+C00059,Small Business,MA,Android
+C00060,Small Business,IL,iOS
+C00061,Consumer,VA,Android
+C00062,Small Business,TX,Android
+C00063,Consumer,VA,Desktop
+C00064,Enterprise,GA,iOS
+C00065,Consumer,IL,Desktop
+C00066,Small Business,NC,iOS
+C00067,Consumer,NY,iOS
+C00068,Consumer,GA,iOS
+C00069,Small Business,NC,Android
+C00070,Consumer,VA,Desktop
+C00071,Small Business,TX,Desktop
+C00072,Consumer,IL,Android
+C00073,Consumer,FL,Android
+C00074,Small Business,IL,Desktop
+C00075,Consumer,MA,iOS
+C00076,Enterprise,IL,Desktop
+C00077,Small Business,TX,iOS
+C00078,Consumer,CA,iOS
+C00079,Small Business,IL,Android
+C00080,Consumer,CA,Android
+C00081,Small Business,WA,Desktop
+C00082,Consumer,IL,Desktop
+C00083,Consumer,IL,iOS
+C00084,Consumer,NY,iOS
+C00085,Consumer,MI,iOS
+C00086,Small Business,IL,Desktop
+C00087,Consumer,FL,Desktop
+C00088,Small Business,IL,Android
+C00089,Consumer,MA,Android
+C00090,Consumer,VA,Android
+C00091,Small Business,AZ,Android
+C00092,Consumer,AZ,Desktop
+C00093,Consumer,VA,Android
+C00094,Consumer,MI,Desktop
+C00095,Consumer,GA,iOS
+C00096,Consumer,AZ,Android
+C00097,Consumer,FL,Android
+C00098,Consumer,VA,Desktop
+C00099,Consumer,MI,Android
+C00100,Consumer,NC,iOS
+C00101,Consumer,MA,Android
+C00102,Consumer,IL,iOS
+C00103,Consumer,NC,Android
+C00104,Consumer,TX,iOS
+C00105,Small Business,CA,Desktop
+C00106,Small Business,IL,Android
+C00107,Consumer,NC,Android
+C00108,Consumer,GA,Desktop
+C00109,Consumer,NC,Android
+C00110,Small Business,WA,Android
+C00111,Consumer,CA,Android
+C00112,Consumer,PA,iOS
+C00113,Consumer,MA,iOS
+C00114,Consumer,AZ,Desktop
+C00115,Consumer,FL,Desktop
+C00116,Consumer,IL,iOS
+C00117,Consumer,CA,Android
+C00118,Consumer,OH,iOS
+C00119,Small Business,NC,iOS
+C00120,Consumer,AZ,iOS
+C00121,Consumer,VA,iOS
+C00122,Consumer,WA,iOS
+C00123,Small Business,MA,Android
+C00124,Consumer,AZ,Desktop
+C00125,Consumer,FL,iOS
+C00126,Consumer,IL,Android
+C00127,Consumer,WA,Android
+C00128,Consumer,CA,Desktop
+C00129,Small Business,MI,Android
+C00130,Small Business,MI,Desktop
+C00131,Consumer,NC,Android
+C00132,Consumer,GA,iOS
+C00133,Consumer,MI,Desktop
+C00134,Consumer,OH,Android
+C00135,Consumer,MA,Android
+C00136,Consumer,GA,Android
+C00137,Consumer,WA,Android
+C00138,Consumer,CA,iOS
+C00139,Consumer,NC,Desktop
+C00140,Consumer,MI,Android
+C00141,Consumer,MI,Desktop
+C00142,Consumer,NY,Desktop
+C00143,Consumer,IL,Android
+C00144,Consumer,FL,Android
+C00145,Enterprise,NC,Desktop
+C00146,Small Business,NY,Desktop
+C00147,Consumer,CA,iOS
+C00148,Consumer,VA,iOS
+C00149,Consumer,NY,Desktop
+C00150,Small Business,FL,iOS
+C00151,Consumer,OH,Desktop
+C00152,Consumer,OH,Desktop
+C00153,Small Business,VA,Android
+C00154,Consumer,TX,Desktop
+C00155,Consumer,OH,Android
+C00156,Consumer,PA,Android
+C00157,Consumer,NY,iOS
+C00158,Consumer,FL,Android
+C00159,Consumer,MI,Android
+C00160,Small Business,PA,iOS
+C00161,Enterprise,AZ,Android
+C00162,Consumer,WA,Android
+C00163,Consumer,MI,Desktop
+C00164,Consumer,VA,Android
+C00165,Small Business,TX,Desktop
+C00166,Consumer,AZ,Android
+C00167,Small Business,TX,Android
+C00168,Consumer,GA,iOS
+C00169,Enterprise,NY,iOS
+C00170,Small Business,FL,Android
+C00171,Consumer,MA,Desktop
+C00172,Consumer,GA,Android
+C00173,Consumer,AZ,Desktop
+C00174,Consumer,OH,Desktop
+C00175,Consumer,PA,Desktop
+C00176,Consumer,NY,iOS
+C00177,Consumer,TX,Android
+C00178,Small Business,MA,iOS
+C00179,Consumer,FL,Android
+C00180,Small Business,IL,Android
+C00181,Small Business,NC,Android
+C00182,Consumer,GA,Android
+C00183,Consumer,WA,iOS
+C00184,Consumer,GA,Android
+C00185,Consumer,NY,Desktop
+C00186,Small Business,PA,iOS
+C00187,Consumer,GA,Android
+C00188,Small Business,MI,Desktop
+C00189,Consumer,MA,Android
+C00190,Consumer,AZ,Desktop
+C00191,Small Business,NY,Desktop
+C00192,Consumer,VA,iOS
+C00193,Consumer,AZ,Desktop
+C00194,Consumer,MI,Android
+C00195,Small Business,NY,Desktop
+C00196,Consumer,NC,iOS
+C00197,Consumer,PA,iOS
+C00198,Consumer,TX,Android
+C00199,Small Business,FL,Desktop
+C00200,Consumer,MI,Desktop
+C00201,Consumer,GA,Android
+C00202,Small Business,PA,Android
+C00203,Consumer,MI,iOS
+C00204,Consumer,NY,Desktop
+C00205,Consumer,PA,Android
+C00206,Consumer,TX,Desktop
+C00207,Consumer,TX,Desktop
+C00208,Consumer,OH,iOS
+C00209,Consumer,MI,Android
+C00210,Consumer,MA,Desktop
+C00211,Consumer,NY,Android
+C00212,Small Business,MA,Android
+C00213,Consumer,VA,iOS
+C00214,Consumer,TX,iOS
+C00215,Small Business,IL,Android
+C00216,Consumer,NC,Android
+C00217,Consumer,IL,iOS
+C00218,Consumer,AZ,Android
+C00219,Consumer,FL,iOS
+C00220,Consumer,FL,Android
+C00221,Enterprise,GA,Android
+C00222,Small Business,MA,Desktop
+C00223,Consumer,NC,Desktop
+C00224,Small Business,IL,iOS
+C00225,Consumer,FL,Android
+C00226,Small Business,FL,Android
+C00227,Small Business,AZ,Desktop
+C00228,Consumer,NC,Android
+C00229,Consumer,CA,Android
+C00230,Consumer,OH,iOS
+C00231,Small Business,GA,Android
+C00232,Small Business,AZ,iOS
+C00233,Consumer,VA,Android
+C00234,Consumer,VA,Android
+C00235,Small Business,CA,Android
+C00236,Small Business,WA,Desktop
+C00237,Consumer,GA,iOS
+C00238,Consumer,MI,Android
+C00239,Consumer,VA,Android
+C00240,Consumer,VA,iOS
+C00241,Consumer,IL,iOS
+C00242,Consumer,GA,iOS
+C00243,Consumer,FL,Android
+C00244,Small Business,AZ,Android
+C00245,Consumer,IL,Desktop
+C00246,Small Business,IL,Desktop
+C00247,Consumer,CA,Desktop
+C00248,Consumer,MI,iOS
+C00249,Consumer,NY,iOS
+C00250,Consumer,PA,iOS
+C00251,Consumer,WA,iOS
+C00252,Consumer,OH,Android
+C00253,Small Business,VA,iOS
+C00254,Consumer,TX,Desktop
+C00255,Consumer,VA,iOS
+C00256,Small Business,FL,iOS
+C00257,Consumer,NY,iOS
+C00258,Consumer,GA,Desktop
+C00259,Small Business,GA,Desktop
+C00260,Enterprise,PA,iOS
+C00261,Consumer,PA,iOS
+C00262,Small Business,IL,Android
+C00263,Small Business,CA,Desktop
+C00264,Consumer,MI,Android
+C00265,Consumer,OH,Android
+C00266,Consumer,PA,iOS
+C00267,Consumer,PA,Android
+C00268,Consumer,AZ,Android
+C00269,Consumer,MI,iOS
+C00270,Enterprise,NY,Android
+C00271,Consumer,NY,Android
+C00272,Consumer,FL,Desktop
+C00273,Consumer,AZ,Android
+C00274,Consumer,PA,Desktop
+C00275,Small Business,MA,Desktop
+C00276,Consumer,OH,Desktop
+C00277,Small Business,FL,iOS
+C00278,Consumer,AZ,Desktop
+C00279,Consumer,VA,iOS
+C00280,Consumer,NC,Android
+C00281,Consumer,MA,Android
+C00282,Small Business,MA,Android
+C00283,Consumer,PA,Android
+C00284,Consumer,IL,Android
+C00285,Consumer,GA,iOS
+C00286,Small Business,AZ,iOS
+C00287,Consumer,OH,Android
+C00288,Consumer,VA,Desktop
+C00289,Consumer,NY,iOS
+C00290,Consumer,MI,Desktop
+C00291,Small Business,MI,Android
+C00292,Small Business,CA,Android
+C00293,Consumer,VA,Android
+C00294,Consumer,FL,Android
+C00295,Consumer,NC,Android
+C00296,Consumer,FL,iOS
+C00297,Consumer,AZ,Android
+C00298,Consumer,NY,iOS
+C00299,Consumer,AZ,Android
+C00300,Small Business,MA,iOS
+C00301,Consumer,WA,Android
+C00302,Consumer,PA,Desktop
+C00303,Consumer,MA,Android
+C00304,Enterprise,AZ,Android
+C00305,Consumer,VA,Android
+C00306,Consumer,IL,iOS
+C00307,Consumer,NY,iOS
+C00308,Consumer,WA,iOS
+C00309,Consumer,NY,Desktop
+C00310,Consumer,AZ,Android
+C00311,Consumer,OH,iOS
+C00312,Small Business,MI,iOS
+C00313,Consumer,CA,iOS
+C00314,Small Business,TX,Android
+C00315,Consumer,FL,Android
+C00316,Consumer,FL,Desktop
+C00317,Consumer,AZ,Android
+C00318,Small Business,FL,iOS
+C00319,Small Business,IL,Android
+C00320,Consumer,CA,Desktop
+C00321,Consumer,NC,Desktop
+C00322,Consumer,CA,iOS
+C00323,Consumer,GA,Android
+C00324,Small Business,NY,iOS
+C00325,Small Business,MA,Android
+C00326,Consumer,WA,iOS
+C00327,Enterprise,OH,Android
+C00328,Consumer,TX,iOS
+C00329,Consumer,NC,iOS
+C00330,Consumer,IL,iOS
+C00331,Consumer,TX,Android
+C00332,Consumer,GA,Desktop
+C00333,Consumer,VA,Android
+C00334,Consumer,OH,Desktop
+C00335,Consumer,VA,Android
+C00336,Enterprise,VA,Desktop
+C00337,Consumer,GA,iOS
+C00338,Consumer,FL,Desktop
+C00339,Small Business,NC,Desktop
+C00340,Consumer,CA,iOS
+C00341,Consumer,MI,Android
+C00342,Consumer,OH,Desktop
+C00343,Consumer,NC,Android
+C00344,Consumer,MI,Desktop
+C00345,Consumer,FL,Desktop
+C00346,Consumer,OH,Android
+C00347,Small Business,NY,iOS
+C00348,Small Business,CA,iOS
+C00349,Consumer,OH,Android
+C00350,Small Business,FL,iOS
+C00351,Consumer,VA,Android
+C00352,Consumer,IL,Android
+C00353,Consumer,PA,iOS
+C00354,Consumer,VA,Android
+C00355,Consumer,GA,iOS
+C00356,Consumer,GA,Desktop
+C00357,Consumer,NY,Desktop
+C00358,Small Business,OH,Desktop
+C00359,Consumer,PA,Desktop
+C00360,Consumer,NY,Desktop
+C00361,Consumer,WA,Desktop
+C00362,Consumer,PA,Android
+C00363,Consumer,TX,Android
+C00364,Consumer,MA,Android
+C00365,Consumer,NY,Android
+C00366,Consumer,AZ,Android
+C00367,Small Business,NC,Desktop
+C00368,Small Business,MA,Desktop
+C00369,Small Business,MA,Desktop
+C00370,Small Business,PA,iOS
+C00371,Small Business,VA,iOS
+C00372,Small Business,MA,Android
+C00373,Consumer,IL,Android
+C00374,Consumer,IL,iOS
+C00375,Enterprise,CA,iOS
+C00376,Consumer,FL,Android
+C00377,Enterprise,MA,Android
+C00378,Consumer,PA,iOS
+C00379,Consumer,OH,iOS
+C00380,Consumer,NY,Android
+C00381,Consumer,PA,Desktop
+C00382,Consumer,TX,iOS
+C00383,Consumer,TX,Desktop
+C00384,Consumer,TX,iOS
+C00385,Small Business,WA,Android
+C00386,Enterprise,AZ,Android
+C00387,Small Business,VA,iOS
+C00388,Small Business,CA,iOS
+C00389,Enterprise,TX,Android
+C00390,Consumer,NY,Desktop
+C00391,Small Business,PA,iOS
+C00392,Consumer,CA,Desktop
+C00393,Consumer,AZ,iOS
+C00394,Consumer,OH,Android
+C00395,Consumer,OH,iOS
+C00396,Small Business,FL,Android
+C00397,Small Business,NC,Android
+C00398,Small Business,NC,Desktop
+C00399,Consumer,NY,iOS
+C00400,Consumer,PA,Android
+C00401,Small Business,FL,Android
+C00402,Consumer,CA,Desktop
+C00403,Consumer,PA,iOS
+C00404,Consumer,MA,Android
+C00405,Consumer,FL,Android
+C00406,Consumer,TX,iOS
+C00407,Consumer,CA,iOS
+C00408,Consumer,MI,Desktop
+C00409,Enterprise,MA,Android
+C00410,Consumer,CA,iOS
+C00411,Consumer,FL,Android
+C00412,Consumer,OH,Android
+C00413,Small Business,CA,Desktop
+C00414,Consumer,GA,Desktop
+C00415,Consumer,MA,iOS
+C00416,Enterprise,GA,iOS
+C00417,Consumer,AZ,Desktop
+C00418,Small Business,MI,iOS
+C00419,Consumer,CA,Android
+C00420,Consumer,FL,iOS
+C00421,Small Business,FL,Android
+C00422,Small Business,VA,iOS
+C00423,Small Business,VA,Android
+C00424,Small Business,VA,Android
+C00425,Consumer,GA,Desktop
+C00426,Consumer,GA,iOS
+C00427,Consumer,AZ,iOS
+C00428,Consumer,GA,Android
+C00429,Consumer,MA,iOS
+C00430,Small Business,NY,Android
+C00431,Enterprise,IL,iOS
+C00432,Consumer,PA,iOS
+C00433,Consumer,PA,Desktop
+C00434,Consumer,MA,Desktop
+C00435,Enterprise,FL,Android
+C00436,Small Business,IL,Desktop
+C00437,Consumer,TX,Android
+C00438,Small Business,MA,Android
+C00439,Consumer,AZ,Desktop
+C00440,Consumer,GA,Android
+C00441,Consumer,PA,iOS
+C00442,Consumer,NY,Desktop
+C00443,Small Business,PA,Android
+C00444,Consumer,FL,Desktop
+C00445,Consumer,OH,Android
+C00446,Consumer,IL,iOS
+C00447,Small Business,WA,Desktop
+C00448,Consumer,PA,Android
+C00449,Small Business,IL,Android
+C00450,Consumer,IL,Android
+C00451,Small Business,CA,iOS
+C00452,Consumer,MI,Android
+C00453,Consumer,AZ,Desktop
+C00454,Consumer,IL,Android
+C00455,Small Business,GA,Android
+C00456,Small Business,CA,Desktop
+C00457,Consumer,NY,Android
+C00458,Consumer,NY,Desktop
+C00459,Consumer,MA,iOS
+C00460,Consumer,TX,iOS
+C00461,Consumer,MA,Desktop
+C00462,Consumer,IL,Desktop
+C00463,Consumer,VA,iOS
+C00464,Consumer,PA,Android
+C00465,Consumer,MI,Desktop
+C00466,Consumer,IL,Desktop
+C00467,Consumer,PA,Android
+C00468,Small Business,OH,Android
+C00469,Small Business,GA,Desktop
+C00470,Consumer,AZ,iOS
+C00471,Consumer,NY,iOS
+C00472,Consumer,WA,Desktop
+C00473,Consumer,NC,iOS
+C00474,Consumer,WA,iOS
+C00475,Consumer,TX,iOS
+C00476,Consumer,TX,Android
+C00477,Consumer,FL,iOS
+C00478,Consumer,NC,Android
+C00479,Small Business,VA,Android
+C00480,Enterprise,AZ,iOS
+C00481,Small Business,NC,iOS
+C00482,Consumer,NY,Desktop
+C00483,Small Business,TX,Android
+C00484,Consumer,TX,iOS
+C00485,Consumer,TX,Android
+C00486,Consumer,NY,Android
+C00487,Consumer,FL,iOS
+C00488,Consumer,MI,Android
+C00489,Consumer,FL,Desktop
+C00490,Consumer,FL,Android
+C00491,Consumer,GA,Android
+C00492,Consumer,PA,iOS
+C00493,Consumer,CA,iOS
+C00494,Consumer,NY,Desktop
+C00495,Consumer,IL,iOS
+C00496,Consumer,MA,Android
+C00497,Consumer,WA,Desktop
+C00498,Consumer,TX,Android
+C00499,Consumer,VA,iOS
+C00500,Consumer,GA,Android
+C00501,Consumer,MI,Android
+C00502,Consumer,VA,Desktop
+C00503,Consumer,NY,Desktop
+C00504,Consumer,OH,Android
+C00505,Consumer,VA,Desktop
+C00506,Consumer,NC,Android
+C00507,Consumer,CA,Desktop
+C00508,Consumer,WA,Desktop
+C00509,Small Business,AZ,Desktop
+C00510,Consumer,AZ,Android
+C00511,Consumer,MA,iOS
+C00512,Consumer,IL,Desktop
+C00513,Consumer,FL,Android
+C00514,Consumer,PA,iOS
+C00515,Consumer,FL,Android
+C00516,Consumer,GA,Desktop
+C00517,Consumer,MI,iOS
+C00518,Small Business,NC,Android
+C00519,Consumer,MI,Android
+C00520,Consumer,NY,Desktop
+C00521,Consumer,VA,iOS
+C00522,Small Business,MI,Android
+C00523,Small Business,NC,iOS
+C00524,Small Business,NC,Android
+C00525,Small Business,MI,Desktop
+C00526,Consumer,AZ,Desktop
+C00527,Consumer,MI,Android
+C00528,Enterprise,AZ,iOS
+C00529,Consumer,WA,Desktop
+C00530,Consumer,NY,iOS
+C00531,Consumer,VA,Android
+C00532,Consumer,GA,Android
+C00533,Small Business,NC,iOS
+C00534,Consumer,WA,Desktop
+C00535,Enterprise,GA,Android
+C00536,Consumer,CA,Android
+C00537,Consumer,IL,iOS
+C00538,Small Business,TX,Desktop
+C00539,Consumer,MA,Android
+C00540,Consumer,NC,Android
+C00541,Consumer,WA,Desktop
+C00542,Consumer,WA,Android
+C00543,Consumer,AZ,iOS
+C00544,Consumer,NY,iOS
+C00545,Consumer,IL,Android
+C00546,Consumer,NC,iOS
+C00547,Consumer,VA,Desktop
+C00548,Consumer,NC,Android
+C00549,Consumer,WA,iOS
+C00550,Small Business,TX,Android
+C00551,Consumer,OH,iOS
+C00552,Consumer,MA,Desktop
+C00553,Consumer,MA,Desktop
+C00554,Consumer,FL,iOS
+C00555,Small Business,CA,iOS
+C00556,Consumer,NC,iOS
+C00557,Consumer,MI,iOS
+C00558,Consumer,WA,iOS
+C00559,Small Business,NC,iOS
+C00560,Consumer,WA,Desktop
+C00561,Consumer,MI,Desktop
+C00562,Consumer,FL,iOS
+C00563,Small Business,VA,iOS
+C00564,Consumer,VA,Desktop
+C00565,Consumer,MA,iOS
+C00566,Consumer,IL,Desktop
+C00567,Small Business,NY,iOS
+C00568,Consumer,NC,iOS
+C00569,Consumer,PA,Desktop
+C00570,Small Business,IL,Android
+C00571,Small Business,NY,Desktop
+C00572,Small Business,TX,iOS
+C00573,Consumer,WA,Desktop
+C00574,Consumer,VA,Android
+C00575,Small Business,GA,iOS
+C00576,Consumer,IL,iOS
+C00577,Small Business,AZ,Desktop
+C00578,Consumer,IL,Desktop
+C00579,Consumer,MI,iOS
+C00580,Small Business,NY,Desktop
+C00581,Consumer,WA,Desktop
+C00582,Consumer,PA,Android
+C00583,Consumer,NC,Android
+C00584,Consumer,MI,iOS
+C00585,Consumer,FL,iOS
+C00586,Small Business,CA,iOS
+C00587,Consumer,OH,Android
+C00588,Enterprise,NY,iOS
+C00589,Consumer,MA,iOS
+C00590,Consumer,VA,iOS
+C00591,Consumer,CA,Android
+C00592,Small Business,TX,Android
+C00593,Consumer,FL,Android
+C00594,Small Business,OH,Android
+C00595,Enterprise,NC,Desktop
+C00596,Consumer,CA,Android
+C00597,Consumer,NY,iOS
+C00598,Consumer,AZ,iOS
+C00599,Consumer,IL,iOS
+C00600,Consumer,MI,Android
+C00601,Consumer,PA,Desktop
+C00602,Small Business,NY,iOS
+C00603,Small Business,NC,iOS
+C00604,Consumer,WA,iOS
+C00605,Consumer,NC,Android
+C00606,Consumer,TX,iOS
+C00607,Consumer,AZ,iOS
+C00608,Consumer,NY,Android
+C00609,Consumer,WA,Android
+C00610,Consumer,OH,iOS
+C00611,Consumer,VA,Android
+C00612,Consumer,FL,iOS
+C00613,Consumer,AZ,iOS
+C00614,Consumer,VA,iOS
+C00615,Consumer,TX,Desktop
+C00616,Consumer,OH,Desktop
+C00617,Consumer,MI,Desktop
+C00618,Small Business,TX,iOS
+C00619,Consumer,MI,Android
+C00620,Consumer,OH,Desktop
+C00621,Consumer,PA,Android
+C00622,Consumer,FL,iOS
+C00623,Consumer,PA,iOS
+C00624,Small Business,FL,Android
+C00625,Consumer,AZ,iOS
+C00626,Small Business,AZ,iOS
+C00627,Consumer,IL,iOS
+C00628,Consumer,AZ,Android
+C00629,Small Business,AZ,Android
+C00630,Consumer,FL,iOS
+C00631,Consumer,MI,Desktop
+C00632,Consumer,AZ,iOS
+C00633,Consumer,OH,Desktop
+C00634,Small Business,IL,iOS
+C00635,Consumer,GA,Desktop
+C00636,Consumer,WA,iOS
+C00637,Consumer,MI,iOS
+C00638,Consumer,OH,Android
+C00639,Enterprise,MI,iOS
+C00640,Consumer,NY,iOS
+C00641,Consumer,TX,iOS
+C00642,Consumer,CA,iOS
+C00643,Consumer,PA,Android
+C00644,Small Business,MI,iOS
+C00645,Consumer,TX,Android
+C00646,Consumer,NY,Android
+C00647,Consumer,IL,iOS
+C00648,Consumer,NY,Android
+C00649,Consumer,VA,Desktop
+C00650,Consumer,PA,Desktop
+C00651,Consumer,CA,Desktop
+C00652,Consumer,OH,iOS
+C00653,Consumer,AZ,iOS
+C00654,Consumer,AZ,Android
+C00655,Small Business,GA,Desktop
+C00656,Consumer,VA,iOS
+C00657,Consumer,NC,Android
+C00658,Small Business,MA,iOS
+C00659,Consumer,CA,Desktop
+C00660,Consumer,TX,Desktop
+C00661,Small Business,NY,Desktop
+C00662,Consumer,IL,iOS
+C00663,Consumer,VA,iOS
+C00664,Consumer,WA,iOS
+C00665,Enterprise,FL,iOS
+C00666,Consumer,OH,Desktop
+C00667,Enterprise,MA,iOS
+C00668,Consumer,NC,iOS
+C00669,Consumer,PA,iOS
+C00670,Small Business,PA,Android
+C00671,Small Business,GA,iOS
+C00672,Consumer,MI,Desktop
+C00673,Consumer,MI,Android
+C00674,Consumer,MA,iOS
+C00675,Consumer,OH,Desktop
+C00676,Consumer,MA,iOS
+C00677,Small Business,OH,Android
+C00678,Small Business,OH,Android
+C00679,Enterprise,OH,Desktop
+C00680,Small Business,GA,Desktop
+C00681,Consumer,NC,Android
+C00682,Consumer,VA,iOS
+C00683,Consumer,OH,Android
+C00684,Small Business,VA,Android
+C00685,Consumer,MA,iOS
+C00686,Consumer,MI,Android
+C00687,Consumer,TX,Desktop
+C00688,Small Business,MI,iOS
+C00689,Consumer,FL,Desktop
+C00690,Consumer,PA,Desktop
+C00691,Consumer,OH,Android
+C00692,Consumer,PA,Desktop
+C00693,Consumer,OH,Android
+C00694,Consumer,NY,Android
+C00695,Consumer,MA,Desktop
+C00696,Consumer,WA,Android
+C00697,Consumer,NY,Android
+C00698,Consumer,TX,iOS
+C00699,Consumer,WA,iOS
+C00700,Consumer,NC,Desktop
+C00701,Small Business,IL,iOS
+C00702,Consumer,MI,iOS
+C00703,Consumer,IL,iOS
+C00704,Consumer,VA,iOS
+C00705,Consumer,IL,Desktop
+C00706,Small Business,CA,Android
+C00707,Consumer,MI,Android
+C00708,Consumer,NY,Android
+C00709,Small Business,MA,Android
+C00710,Consumer,WA,Desktop
+C00711,Consumer,OH,Desktop
+C00712,Enterprise,WA,iOS
+C00713,Consumer,GA,Desktop
+C00714,Consumer,GA,iOS
+C00715,Consumer,AZ,iOS
+C00716,Consumer,VA,Desktop
+C00717,Consumer,TX,iOS
+C00718,Consumer,MI,Android
+C00719,Consumer,NY,Android
+C00720,Small Business,OH,iOS
+C00721,Consumer,NY,Desktop
+C00722,Consumer,MI,Desktop
+C00723,Consumer,PA,Android
+C00724,Consumer,TX,Android
+C00725,Consumer,VA,Android
+C00726,Consumer,NY,Desktop
+C00727,Consumer,AZ,iOS
+C00728,Consumer,FL,Desktop
+C00729,Consumer,TX,iOS
+C00730,Small Business,OH,Desktop
+C00731,Small Business,IL,iOS
+C00732,Consumer,GA,Android
+C00733,Consumer,TX,iOS
+C00734,Consumer,GA,Desktop
+C00735,Consumer,IL,Desktop
+C00736,Small Business,OH,Android
+C00737,Small Business,MI,Android
+C00738,Enterprise,VA,Android
+C00739,Consumer,NY,iOS
+C00740,Consumer,MI,iOS
+C00741,Consumer,GA,iOS
+C00742,Small Business,AZ,Desktop
+C00743,Consumer,VA,Desktop
+C00744,Consumer,PA,iOS
+C00745,Consumer,CA,Desktop
+C00746,Consumer,CA,iOS
+C00747,Consumer,OH,iOS
+C00748,Small Business,NC,iOS
+C00749,Consumer,TX,iOS
+C00750,Small Business,VA,Desktop
+C00751,Small Business,PA,Desktop
+C00752,Small Business,NC,Android
+C00753,Consumer,CA,Desktop
+C00754,Consumer,PA,Android
+C00755,Consumer,GA,iOS
+C00756,Consumer,NY,iOS
+C00757,Consumer,OH,Android
+C00758,Small Business,MA,iOS
+C00759,Consumer,AZ,Android
+C00760,Consumer,GA,Android
+C00761,Consumer,FL,Desktop
+C00762,Small Business,NY,Android
+C00763,Small Business,WA,iOS
+C00764,Consumer,TX,Desktop
+C00765,Small Business,GA,Android
+C00766,Enterprise,FL,iOS
+C00767,Consumer,MA,Android
+C00768,Consumer,IL,Desktop
+C00769,Consumer,GA,Desktop
+C00770,Consumer,TX,iOS
+C00771,Consumer,IL,iOS
+C00772,Consumer,PA,Android
+C00773,Consumer,IL,Desktop
+C00774,Consumer,MI,iOS
+C00775,Small Business,PA,Android
+C00776,Consumer,TX,iOS
+C00777,Small Business,FL,Android
+C00778,Consumer,PA,iOS
+C00779,Consumer,WA,Desktop
+C00780,Consumer,WA,iOS
+C00781,Consumer,IL,iOS
+C00782,Consumer,WA,Desktop
+C00783,Small Business,OH,Desktop
+C00784,Consumer,AZ,iOS
+C00785,Enterprise,MI,Desktop
+C00786,Consumer,FL,Android
+C00787,Consumer,GA,Desktop
+C00788,Consumer,NC,Desktop
+C00789,Consumer,WA,iOS
+C00790,Consumer,TX,iOS
+C00791,Small Business,AZ,Desktop
+C00792,Small Business,OH,Android
+C00793,Consumer,FL,Desktop
+C00794,Consumer,NY,iOS
+C00795,Small Business,PA,iOS
+C00796,Consumer,GA,Desktop
+C00797,Small Business,VA,Desktop
+C00798,Small Business,VA,Desktop
+C00799,Consumer,OH,iOS
+C00800,Small Business,AZ,Android
+C00801,Consumer,AZ,Android
+C00802,Consumer,GA,Android
+C00803,Enterprise,NY,Desktop
+C00804,Small Business,MI,Android
+C00805,Small Business,CA,Desktop
+C00806,Consumer,PA,Desktop
+C00807,Consumer,MA,iOS
+C00808,Consumer,IL,Desktop
+C00809,Consumer,NC,iOS
+C00810,Enterprise,WA,Desktop
+C00811,Small Business,PA,iOS
+C00812,Consumer,WA,Desktop
+C00813,Consumer,VA,Android
+C00814,Consumer,NC,iOS
+C00815,Consumer,NC,Android
+C00816,Consumer,NC,Android
+C00817,Consumer,AZ,Android
+C00818,Consumer,WA,iOS
+C00819,Consumer,CA,iOS
+C00820,Small Business,TX,Desktop
+C00821,Consumer,IL,iOS
+C00822,Consumer,OH,Desktop
+C00823,Consumer,IL,iOS
+C00824,Consumer,VA,iOS
+C00825,Consumer,VA,Android
+C00826,Consumer,GA,Desktop
+C00827,Small Business,MI,Android
+C00828,Consumer,VA,iOS
+C00829,Enterprise,OH,iOS
+C00830,Small Business,FL,Android
+C00831,Consumer,IL,Desktop
+C00832,Small Business,NY,Android
+C00833,Consumer,CA,Android
+C00834,Consumer,MI,Android
+C00835,Consumer,NY,Android
+C00836,Consumer,NC,Android
+C00837,Consumer,PA,iOS
+C00838,Consumer,NY,Desktop
+C00839,Consumer,FL,Android
+C00840,Small Business,VA,iOS
+C00841,Small Business,MI,iOS
+C00842,Consumer,MI,Desktop
+C00843,Consumer,VA,iOS
+C00844,Consumer,TX,iOS
+C00845,Consumer,AZ,iOS
+C00846,Small Business,NY,Desktop
+C00847,Consumer,MA,Desktop
+C00848,Small Business,IL,Android
+C00849,Consumer,AZ,Android
+C00850,Consumer,WA,iOS
+C00851,Consumer,AZ,iOS
+C00852,Consumer,PA,iOS
+C00853,Consumer,FL,Desktop
+C00854,Consumer,AZ,iOS
+C00855,Consumer,GA,Android
+C00856,Consumer,PA,Android
+C00857,Enterprise,GA,Desktop
+C00858,Consumer,AZ,Android
+C00859,Consumer,AZ,Android
+C00860,Small Business,GA,iOS
+C00861,Consumer,NY,Desktop
+C00862,Consumer,GA,iOS
+C00863,Consumer,OH,Android
+C00864,Enterprise,MA,Android
+C00865,Small Business,FL,Android
+C00866,Consumer,PA,Desktop
+C00867,Consumer,AZ,Android
+C00868,Consumer,TX,iOS
+C00869,Consumer,WA,iOS
+C00870,Small Business,WA,iOS
+C00871,Small Business,TX,Android
+C00872,Consumer,NY,Android
+C00873,Consumer,AZ,Android
+C00874,Consumer,AZ,Desktop
+C00875,Small Business,CA,Android
+C00876,Consumer,TX,Desktop
+C00877,Consumer,IL,Android
+C00878,Consumer,OH,Android
+C00879,Enterprise,MI,iOS
+C00880,Small Business,CA,Desktop
+C00881,Small Business,AZ,Android
+C00882,Consumer,AZ,Android
+C00883,Small Business,PA,Android
+C00884,Consumer,NY,iOS
+C00885,Consumer,WA,iOS
+C00886,Consumer,TX,Android
+C00887,Consumer,IL,iOS
+C00888,Small Business,GA,iOS
+C00889,Consumer,AZ,Android
+C00890,Consumer,OH,iOS
+C00891,Consumer,CA,Desktop
+C00892,Consumer,AZ,Desktop
+C00893,Small Business,NY,iOS
+C00894,Small Business,PA,Android
+C00895,Consumer,PA,Desktop
+C00896,Small Business,AZ,Android
+C00897,Consumer,GA,Desktop
+C00898,Consumer,TX,iOS
+C00899,Small Business,TX,iOS
+C00900,Consumer,OH,Desktop
