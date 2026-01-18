@@ -1,0 +1,5 @@
+plan_type,monthly_price_usd,target_segment
+Free,0,Individuals
+Basic,19,Creators
+Pro,49,Teams
+Enterprise,199,Business
