@@ -1,159 +1,81 @@
-# 📊 Financial Analyst Portfolio (FP&A Focused)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-Financial%20Modeling-green?logo=microsoft-excel)
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue?logo=postgresql)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+# 📊 Financial Analyst Portfolio  
+### FP&A • Financial Analytics • Business Performance
 
----
-
-## 👋 Welcome  
-
-Welcome to my **FP&A-focused Financial Analyst Portfolio**.  
-This repository showcases **real-world, job-ready projects** demonstrating:
-
-- Financial Planning & Analysis (FP&A) workflows  
-- Budgeting, forecasting, and scenario modeling  
-- Budget vs Actual and variance analysis  
-- Executive dashboarding and KPI reporting  
-- Data-driven insights for business decision-making  
-
-My focus is on helping leadership teams make **clearer, faster, and more confident financial decisions** using data.
-
----
-
-## 🧠 About Me  
-
-I am a **Financial Analyst specializing in FP&A and business performance analysis**, with hands-on experience across the full analytics lifecycle — from raw data to executive-ready reporting.
-
-**Core strengths include:**
-- Budget vs Actual analysis and variance reporting  
-- Forecasting and trend analysis  
-- Financial performance tracking (Revenue, Expenses, Margin)  
-- KPI scorecards for leadership teams  
-- SQL-based financial data analysis  
-- Python for trend analysis and automation  
-- Excel financial modeling and scenario planning  
-
----
-
-## 📌 Table of Contents  
-- Featured FP&A Projects  
-- Skills Demonstrated  
-- Tools & Methods  
-- File Naming Standards  
-- Contact  
-
----
-
-## 📁 Featured FP&A Projects  
-
-### 📌 FP&A Executive Dashboard  
-Power BI executive-level dashboard designed for leadership financial reviews.
-
-**Business value demonstrated:**
-- Tracks performance against budget  
-- Highlights key variances automatically  
-- Supports faster executive-level decisions  
-- Enables month-over-month performance monitoring  
-
-Key elements:
-- Revenue: Actual vs Budget  
-- Variance KPIs  
-- Department-level expense analysis  
-- Monthly trend analysis  
-
----
-
-### 📌 Amazon Marketplace Financial Performance  
-FP&A-style financial performance analysis inspired by marketplace business models.
-
-**Business value demonstrated:**
-- Identifies revenue drivers  
-- Evaluates profitability by segment  
-- Supports pricing and investment decisions  
-
-Key elements:
-- GMV, Orders, AOV, Take Rate  
-- Seller tier performance  
-- Category segmentation  
-- Growth and margin analysis  
-
----
-
-### 📌 Profitability & COGS Analysis  
-Product-level margin and cost analysis designed for financial decision-making.
-
-**Business value demonstrated:**
-- Identifies high-margin vs low-margin products  
-- Highlights cost drivers  
-- Supports pricing and cost-optimization strategy  
-
-Key elements:
-- Gross margin ranking  
-- COGS breakdown  
-- Discount impact on profitability  
-- Product performance analysis  
-
----
-
-### 📌 Executive Financial Performance Dashboard  
-High-level financial performance dashboard built for executive review.
-
-**Business value demonstrated:**
-- Clear visibility into financial health  
-- Performance tracking over time  
-- Supports strategic planning discussions  
-
-Key elements:
-- Revenue vs Expenses  
-- Net Income trends  
-- Profit margin analysis  
-- Return on Assets (ROA)  
-
----
-
-## 📊 Skills Demonstrated  
+Welcome to my job-ready **Financial Analyst Portfolio.**  
+This repository demonstrates real-world financial analysis work across core areas including:
 
 - Financial Planning & Analysis (FP&A)  
-- Budgeting, Forecasting, and Variance Analysis  
-- Scenario Analysis & Business Modeling  
-- Power BI Dashboard Development  
-- Financial KPI Development  
-- SQL for Financial Analytics  
-- Python for Financial Analysis  
-- Excel Financial Modeling  
-- Executive Communication with Data  
+- Budgeting, forecasting, and scenario modeling  
+- Budget vs Actual and variance analysis  
+- Executive reporting and KPI dashboards  
+- Data-driven insights for business decision-making  
+- SQL-driven analysis and Python-assisted workflows  
+
+The projects in this portfolio illustrate practical analyst skills used by finance teams to inform strategy, support leaders, and drive performance improvement.
 
 ---
 
-## 🛠 Tools & Methods  
+## 👋 About Me
 
-- **Power BI:** Executive dashboards, KPIs, DAX measures  
-- **Excel:** Financial models, forecasts, scenario analysis  
-- **SQL:** Data extraction, transformation, analytical queries  
-- **Python:** Trend analysis, data validation, automation  
-- **GitHub:** Professional project documentation and portfolio  
+I am a Financial Analyst with hands-on experience in financial modeling, performance analytics, reporting, and executive communication. I build models and dashboards that turn data into **actionable insights** and help decision-makers confidently answer key business questions.
 
----
-
-## 📌 File Naming Standards  
-
-All files follow professional portfolio conventions:
-
-`<ProjectName>_<Purpose>`
-
-Examples:
-- FPnA_Executive_Dashboard  
-- Amazon_Financial_Performance  
-- Profitability_COGS_Analysis  
+**Core Skills**
+- 📊 Financial Analysis & FP&A  
+- 📈 Forecasting & Budgeting  
+- 📌 Variance Analysis & KPI Tracking  
+- 🧠 SQL Data Modeling & Python Analytics  
+- 📉 Power BI & Tableau Visualizations  
+- 📁 Executive Reporting & Storytelling  
 
 ---
 
-## 📬 Contact  
+## 📂 Featured Projects
 
-**Jamie Christian**  
-📧 Email: jamiechristian22@gmail.com  
-🔗 GitHub: https://github.com/JamieChristian22  
+### 📌 01 – FP&A Executive Dashboard
+**Business Focus:** Designed to simulate internal FP&A dashboards used by finance leadership to monitor performance and budget adherence.  
+**Highlights:** KPI tracking, variance analysis, trend identification, and executive reporting.  
+**Folder:** `01_FPA_Executive_Dashboard`
 
-⭐ If you're a recruiter, hiring manager, or finance leader, feel free to explore the projects and reach out.
+---
+
+### 📌 02 – Amazon Marketplace Financial Analytics
+**Business Focus:** Financial analytics for marketplace economics, including revenue, seller performance, and profitability drivers.  
+**Highlights:** Category profitability, margin drivers, seller segmentation performance.  
+**Folder:** `02_Amazon_Marketplace_Analytics`
+
+---
+
+### 📌 03 – Profitability and COGS Analysis
+**Business Focus:** Deep-dive into cost structures and gross margin optimization.  
+**Highlights:** Cost driver identification, margin decomposition, actionable recommendations for margin improvement.  
+**Folder:** `03_Profitability_and_COGS_Analysis`
+
+---
+
+### 📌 04 – Executive Financial Performance Reporting
+**Business Focus:** Board-style financial reporting geared toward executive stakeholders.  
+**Highlights:** High-level performance summaries, trend analysis, data storytelling for leadership.  
+**Folder:** `04_Executive_Financial_Performance`
+
+---
+
+## 📈 What This Portfolio Demonstrates
+
+This portfolio is intentionally structured to show:
+
+- How financial data is turned into **meaningful business insights**  
+- Analyst-level understanding of budgeting, forecasting, and performance  
+- Ability to build professional dashboards for decision support  
+- Structured financial modeling ready for real corporate use  
+- Professional documentation and executive communication  
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/jamiechristian2  
+- **GitHub:** https://github.com/JamieChristian22  
+
+---
+
+If you're a recruiter or hiring manager, feel free to explore the project folders — each one is designed to reflect the type of work produced in real finance and analytics roles.
