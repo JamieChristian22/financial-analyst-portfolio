@@ -13,7 +13,7 @@ Welcome to my job-ready **Financial Analyst Portfolio**. This repository showcas
 **Typical stakeholders supported:** Finance leadership (Director/VP Finance), business partners, and operating teams.  
 **Monthly cadence demonstrated:** Month-end performance review → variance analysis → insights → forecast refresh / decision support.
 
-> **Start here:** Open the portfolio hub → **[Financial_Analytics_Portfolio/README.md](Financial_Analytics_Portfolio/README.md)**
+> **Portfolio Hub:** Open the portfolio hub → **[Financial_Analytics_Portfolio/README.md](Financial_Analytics_Portfolio/README.md)**
 
 ---
 
