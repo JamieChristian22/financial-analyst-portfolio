@@ -1,5 +1,5 @@
 # 📊 Financial Analyst Portfolio  
-### FP&A • Financial Analytics • Business Performance
+### FP&A • Forecasting • Variance Analysis • Executive Reporting
 
 Welcome to my job-ready **Financial Analyst Portfolio**. This repository showcases practical, real-world-style work across core finance analytics areas:
 
