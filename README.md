@@ -80,7 +80,14 @@ If you’re a recruiter or hiring manager, here’s the fastest way to review:
 - Produced an executive-ready monthly performance narrative: key KPIs, trend commentary, and notable variances.  
 - Connected financial outcomes to business drivers to support leadership decisions and forecast adjustments.  
 **Project folder:** **[Financial_Analytics_Portfolio/04_Executive_Financial_Performance](Financial_Analytics_Portfolio/04_Executive_Financial_Performance/)**
+---
+## 🖼️ Dashboard Previews
 
+[![FP&A Executive Dashboard](Images/FPnA_Executive_Analytics_Dashboard.png)](Financial_Analytics_Portfolio/01_FPA_Executive_Dashboard/)
+
+[![Executive Financial Performance Dashboard](Images/Executive%20Financial%20Performance%20Dashboard.png)](Financial_Analytics_Portfolio/04_Executive_Financial_Performance/)
+
+[![Amazon Marketplace Dashboard](Images/amazon_dashboard_thumbnail.png)](Financial_Analytics_Portfolio/02_Amazon_Marketplace_Analytics/)
 ---
 
 ## 📈 What This Portfolio Demonstrates
