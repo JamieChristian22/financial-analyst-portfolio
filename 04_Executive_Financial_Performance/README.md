@@ -3,7 +3,6 @@
 ![Excel](https://img.shields.io/badge/Tool-Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/Tool-SQL-4479A1?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Tool-Python-3776AB?style=for-the-badge&logo=python)
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=for-the-badge&logo=tableau)
 
 An **executive financial analytics project** designed to monitor key financial performance indicators such as **Revenue, Expenses, Net Income, Profit Margin, and Return on Assets (ROA)** using Excel, SQL, Python, and BI dashboards.
