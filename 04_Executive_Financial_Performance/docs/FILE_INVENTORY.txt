@@ -1,0 +1,16 @@
+README.md
+RESULTS_INSIGHTS.md
+data/executive_financial_performance_data.csv
+docs/BI_DASHBOARD_BUILD_SPEC.md
+docs/DATA_DICTIONARY.md
+docs/MONTHLY_FP&A_CLOSE_PLAYBOOK.md
+docs/POWER_BI_DAX_MEASURES.txt
+excel/Executive_Financial_Performance_Corporate_FP&A_Model.xlsx
+outputs/executive_kpi_summary.csv
+python/01_validate_data.py
+python/02_executive_analysis.py
+python/README.md
+sql/01_schema.sql
+sql/02_executive_kpis.sql
+sql/03_variance_analysis.sql
+sql/04_business_unit_performance.sql

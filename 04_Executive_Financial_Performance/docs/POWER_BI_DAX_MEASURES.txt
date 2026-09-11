@@ -1,0 +1,26 @@
+-- Core DAX measures for Power BI
+
+Actual Revenue = SUM(Financial[Actual_Revenue])
+Budget Revenue = SUM(Financial[Budget_Revenue])
+Forecast Revenue = SUM(Financial[Forecast_Revenue])
+
+Revenue Variance $ = [Actual Revenue] - [Budget Revenue]
+Revenue Variance % = DIVIDE([Revenue Variance $], [Budget Revenue])
+
+Actual COGS = SUM(Financial[Actual_COGS])
+Gross Profit = [Actual Revenue] - [Actual COGS]
+Gross Margin = DIVIDE([Gross Profit], [Actual Revenue])
+
+Actual Opex = SUM(Financial[Actual_Opex])
+EBITDA = [Gross Profit] - [Actual Opex]
+EBITDA Margin = DIVIDE([EBITDA], [Actual Revenue])
+
+Operating Cash Flow = SUM(Financial[Operating_Cash_Flow])
+Cash Conversion = DIVIDE([Operating Cash Flow], [EBITDA])
+
+Assets = SUM(Financial[Assets])
+ROA = DIVIDE([EBITDA], [Assets])
+
+Forecast Variance $ = [Actual Revenue] - [Forecast Revenue]
+Forecast Variance % = DIVIDE([Forecast Variance $], [Forecast Revenue])
+Forecast Accuracy % = 1 - ABS([Forecast Variance %])
