@@ -1,0 +1,13 @@
+Month,Revenue,COGS,GrossProfit,GrossMarginPct,DiscountLeakage,Commentary
+1,367991.22,127921.3,240069.85,0.6523792877449631,25489.589999999997,Margin broadly stable; monitor price realization and COGS.
+2,381695.51,139642.23,242053.27,0.6341527831962184,35826.07000000001,"Margin declined; review discounts, mix and COGS inflation."
+3,372109.68,127634.93,244474.8,0.6569966145465498,31919.06,Margin improved; validate price/mix and cost drivers.
+4,387610.77,137903.89,249706.82,0.6442205411371825,32122.550000000003,"Margin declined; review discounts, mix and COGS inflation."
+5,390290.13,148233.47,242056.69,0.6201968007748492,33988.55,"Margin declined; review discounts, mix and COGS inflation."
+6,439952.72,158083.22,281869.52,0.6406813895820442,39193.3,Margin improved; validate price/mix and cost drivers.
+7,389922.91,142381.69,247541.28,0.634846718803981,33542.64,"Margin declined; review discounts, mix and COGS inflation."
+8,370416.51,139364.93,231051.65,0.6237617486326406,31317.310000000005,"Margin declined; review discounts, mix and COGS inflation."
+9,336059.46,118852.02,217207.46,0.6463363953509893,26881.09,Margin improved; validate price/mix and cost drivers.
+10,410084.73,155144.72,254939.98,0.6216763545426333,35060.450000000004,"Margin declined; review discounts, mix and COGS inflation."
+11,375940.29,130942.76,244997.64,0.6516929590068679,32186.06,Margin improved; validate price/mix and cost drivers.
+12,370817.2,129878.17,240939.06,0.6497515757090017,31598.739999999998,Margin broadly stable; monitor price realization and COGS.

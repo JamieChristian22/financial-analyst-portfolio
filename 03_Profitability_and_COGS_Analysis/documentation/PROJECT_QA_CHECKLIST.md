@@ -1,0 +1,14 @@
+# Project QA Checklist
+- [x] Transaction-level profitability data
+- [x] Product/channel profitability
+- [x] COGS component analysis
+- [x] Discount leakage framework
+- [x] PVM framework
+- [x] Forecast/scenario/sensitivity design
+- [x] SQL KPI reporting
+- [x] Python validation/analysis
+- [x] Power BI DAX/model blueprint
+- [x] Tableau guide
+- [x] Monthly margin review
+- [x] Interview/recruiter documentation
+- [x] Synthetic-data disclosure

@@ -1,0 +1,4 @@
+Actual job-ready corporate Excel workbook:
+Profitability_and_COGS_Corporate_Analysis_Model_FINAL.xlsx
+
+19 worksheets including Executive Dashboard, KPI Scorecard, Assumptions, Raw Transactions, Monthly P&L, Product Profitability, Channel Profitability, COGS Bridge, Discount Analysis, calculated GP PVM + COGS Bridge, PPV & Usage Variance, Margin Exceptions, Forecast, Scenario Planning, Sensitivity Analysis, Management Commentary, Controls, Data Dictionary and Version Control.
