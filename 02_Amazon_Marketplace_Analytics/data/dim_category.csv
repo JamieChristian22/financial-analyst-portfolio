@@ -1,0 +1,7 @@
+Category,BaseAOV,BaseTakeRate,ExpectedRefundRate,FulfillmentIndex
+Electronics,145,0.125,0.06,8.5
+Home & Kitchen,82,0.135,0.028,6.0
+Beauty,44,0.145,0.022,4.0
+Apparel,64,0.12,0.07,5.0
+Sports,76,0.128,0.035,5.5
+Pet Supplies,52,0.132,0.025,4.5

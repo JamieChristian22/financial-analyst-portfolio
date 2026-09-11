@@ -1,81 +1,81 @@
-SellerID,SellerCode,SellerTier,SellerRating,Region
-1,S001,Bronze,4.27,Midwest
-2,S002,Bronze,4.06,Northeast
-3,S003,Silver,3.63,West
-4,S004,Bronze,4.51,Southwest
-5,S005,Bronze,4.41,West
-6,S006,Platinum,3.75,Southeast
-7,S007,Platinum,3.74,Midwest
-8,S008,Bronze,4.78,Southeast
-9,S009,Bronze,3.77,Southwest
-10,S010,Gold,4.48,Midwest
-11,S011,Bronze,4.3,West
-12,S012,Silver,4.51,Northeast
-13,S013,Bronze,4.64,Southeast
-14,S014,Bronze,3.69,Northeast
-15,S015,Silver,4.64,Northeast
-16,S016,Silver,3.89,Midwest
-17,S017,Gold,4.19,Midwest
-18,S018,Platinum,4.14,Midwest
-19,S019,Silver,3.66,Southeast
-20,S020,Platinum,4.86,Midwest
-21,S021,Bronze,3.86,Midwest
-22,S022,Silver,4.29,Southeast
-23,S023,Bronze,4.25,Southeast
-24,S024,Bronze,4.64,Midwest
-25,S025,Bronze,3.62,West
-26,S026,Silver,3.85,Southwest
-27,S027,Bronze,4.18,Southwest
-28,S028,Silver,4.31,Southwest
-29,S029,Platinum,4.0,Southeast
-30,S030,Platinum,4.05,Southeast
-31,S031,Bronze,4.05,Northeast
-32,S032,Gold,3.62,Midwest
-33,S033,Bronze,3.67,Southwest
-34,S034,Gold,4.47,Midwest
-35,S035,Silver,4.5,Northeast
-36,S036,Bronze,3.8,Southwest
-37,S037,Bronze,4.07,Midwest
-38,S038,Platinum,4.31,Southeast
-39,S039,Bronze,4.75,Southeast
-40,S040,Bronze,3.6,Southwest
-41,S041,Bronze,3.96,Southeast
-42,S042,Bronze,4.61,Northeast
-43,S043,Bronze,3.72,Southwest
-44,S044,Silver,4.11,Midwest
-45,S045,Bronze,3.9,West
-46,S046,Platinum,4.71,Southeast
-47,S047,Silver,4.53,West
-48,S048,Bronze,4.02,Southwest
-49,S049,Bronze,4.54,Southeast
-50,S050,Bronze,4.69,West
-51,S051,Silver,4.55,West
-52,S052,Bronze,4.28,West
-53,S053,Silver,4.66,Northeast
-54,S054,Gold,4.36,Southeast
-55,S055,Bronze,3.65,Midwest
-56,S056,Platinum,4.09,Southwest
-57,S057,Silver,4.42,West
-58,S058,Silver,4.24,Northeast
-59,S059,Bronze,3.69,West
-60,S060,Gold,3.72,West
-61,S061,Bronze,4.56,Midwest
-62,S062,Silver,4.7,Southeast
-63,S063,Silver,3.87,Southwest
-64,S064,Bronze,4.1,Southwest
-65,S065,Gold,3.97,Northeast
-66,S066,Silver,4.44,Northeast
-67,S067,Silver,4.03,Midwest
-68,S068,Silver,3.77,Southwest
-69,S069,Bronze,3.95,Northeast
-70,S070,Silver,4.48,Midwest
-71,S071,Silver,3.97,Southwest
-72,S072,Bronze,3.75,West
-73,S073,Bronze,4.87,Southwest
-74,S074,Bronze,4.2,West
-75,S075,Platinum,4.18,Midwest
-76,S076,Bronze,4.79,Southeast
-77,S077,Bronze,3.72,West
-78,S078,Bronze,4.07,West
-79,S079,Gold,4.26,Northeast
-80,S080,Silver,3.9,Southwest
+SellerID,SellerName,SellerTier,Region,PrimaryCategory,QualityScore
+1001,Seller 1001,Platinum,East,Electronics,0.976
+1002,Seller 1002,Platinum,Central,Home & Kitchen,0.943
+1003,Seller 1003,Platinum,East,Pet Supplies,0.976
+1004,Seller 1004,Platinum,East,Sports,0.958
+1005,Seller 1005,Platinum,East,Electronics,0.947
+1006,Seller 1006,Platinum,East,Sports,0.946
+1007,Seller 1007,Platinum,South,Home & Kitchen,0.96
+1008,Seller 1008,Platinum,West,Electronics,0.977
+1009,Seller 1009,Platinum,Central,Pet Supplies,0.958
+1010,Seller 1010,Platinum,West,Home & Kitchen,0.947
+1011,Seller 1011,Platinum,West,Electronics,0.94
+1012,Seller 1012,Platinum,East,Beauty,0.982
+1013,Seller 1013,Gold,West,Electronics,0.935
+1014,Seller 1014,Gold,East,Apparel,0.899
+1015,Seller 1015,Gold,West,Pet Supplies,0.929
+1016,Seller 1016,Gold,West,Sports,0.906
+1017,Seller 1017,Gold,East,Electronics,0.931
+1018,Seller 1018,Gold,West,Electronics,0.942
+1019,Seller 1019,Gold,East,Apparel,0.91
+1020,Seller 1020,Gold,West,Home & Kitchen,0.915
+1021,Seller 1021,Gold,Central,Pet Supplies,0.91
+1022,Seller 1022,Gold,East,Sports,0.93
+1023,Seller 1023,Gold,Central,Home & Kitchen,0.92
+1024,Seller 1024,Gold,West,Pet Supplies,0.933
+1025,Seller 1025,Gold,Central,Pet Supplies,0.913
+1026,Seller 1026,Gold,East,Home & Kitchen,0.94
+1027,Seller 1027,Gold,West,Apparel,0.91
+1028,Seller 1028,Gold,Central,Sports,0.943
+1029,Seller 1029,Gold,West,Home & Kitchen,0.931
+1030,Seller 1030,Gold,South,Pet Supplies,0.92
+1031,Seller 1031,Silver,West,Home & Kitchen,0.859
+1032,Seller 1032,Silver,West,Pet Supplies,0.877
+1033,Seller 1033,Silver,South,Beauty,0.857
+1034,Seller 1034,Silver,Central,Sports,0.872
+1035,Seller 1035,Silver,East,Electronics,0.853
+1036,Seller 1036,Silver,Central,Pet Supplies,0.868
+1037,Seller 1037,Silver,East,Apparel,0.866
+1038,Seller 1038,Silver,South,Sports,0.859
+1039,Seller 1039,Silver,East,Pet Supplies,0.885
+1040,Seller 1040,Silver,West,Pet Supplies,0.864
+1041,Seller 1041,Silver,West,Apparel,0.854
+1042,Seller 1042,Silver,East,Pet Supplies,0.893
+1043,Seller 1043,Silver,West,Sports,0.887
+1044,Seller 1044,Silver,East,Pet Supplies,0.861
+1045,Seller 1045,Silver,Central,Home & Kitchen,0.866
+1046,Seller 1046,Silver,Central,Sports,0.897
+1047,Seller 1047,Silver,East,Sports,0.863
+1048,Seller 1048,Silver,East,Electronics,0.896
+1049,Seller 1049,Silver,West,Home & Kitchen,0.848
+1050,Seller 1050,Silver,East,Electronics,0.885
+1051,Seller 1051,Silver,East,Sports,0.887
+1052,Seller 1052,Silver,Central,Pet Supplies,0.871
+1053,Seller 1053,Silver,Central,Beauty,0.874
+1054,Seller 1054,Silver,South,Home & Kitchen,0.896
+1055,Seller 1055,Bronze,Central,Pet Supplies,0.802
+1056,Seller 1056,Bronze,West,Apparel,0.834
+1057,Seller 1057,Bronze,South,Electronics,0.799
+1058,Seller 1058,Bronze,East,Beauty,0.786
+1059,Seller 1059,Bronze,Central,Sports,0.797
+1060,Seller 1060,Bronze,East,Pet Supplies,0.82
+1061,Seller 1061,Bronze,Central,Electronics,0.835
+1062,Seller 1062,Bronze,West,Electronics,0.813
+1063,Seller 1063,Bronze,West,Pet Supplies,0.812
+1064,Seller 1064,Bronze,Central,Pet Supplies,0.836
+1065,Seller 1065,Bronze,South,Home & Kitchen,0.828
+1066,Seller 1066,Bronze,South,Home & Kitchen,0.79
+1067,Seller 1067,Bronze,South,Beauty,0.808
+1068,Seller 1068,Bronze,South,Pet Supplies,0.788
+1069,Seller 1069,Bronze,East,Electronics,0.807
+1070,Seller 1070,Bronze,West,Electronics,0.799
+1071,Seller 1071,Bronze,Central,Sports,0.81
+1072,Seller 1072,Bronze,South,Home & Kitchen,0.8
+1073,Seller 1073,Bronze,Central,Electronics,0.809
+1074,Seller 1074,Bronze,East,Electronics,0.821
+1075,Seller 1075,Bronze,East,Electronics,0.836
+1076,Seller 1076,Bronze,Central,Home & Kitchen,0.807
+1077,Seller 1077,Bronze,South,Home & Kitchen,0.833
+1078,Seller 1078,Bronze,East,Home & Kitchen,0.806
+1079,Seller 1079,Bronze,South,Beauty,0.836
+1080,Seller 1080,Bronze,South,Beauty,0.808
