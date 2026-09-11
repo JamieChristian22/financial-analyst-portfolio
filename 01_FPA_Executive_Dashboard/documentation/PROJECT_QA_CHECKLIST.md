@@ -1,0 +1,13 @@
+# Project QA Checklist
+- [x] 12 months / 5 departments / 7 accounts
+- [x] Budget, actual, variance $ and %
+- [x] Monthly P&L and profitability KPIs
+- [x] Department variance analysis and 5% materiality logic
+- [x] Rolling forecast and 3 scenarios
+- [x] Illustrative DCF
+- [x] Executive dashboard and recruiter preview
+- [x] Management commentary and controls
+- [x] Data dictionary
+- [x] SQL, Python and DAX artifacts
+- [x] Interview walkthrough and resume bullets
+- [x] Synthetic-data disclosure
