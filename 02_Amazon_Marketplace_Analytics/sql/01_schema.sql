@@ -1,0 +1,7 @@
+-- Amazon Marketplace Analytics | Corporate-ready star schema
+CREATE TABLE dim_seller (seller_id INTEGER PRIMARY KEY, seller_name VARCHAR(100) NOT NULL, seller_tier VARCHAR(20) NOT NULL, region VARCHAR(30), primary_category VARCHAR(50), quality_score DECIMAL(5,3));
+CREATE TABLE dim_category (category_name VARCHAR(50) PRIMARY KEY, base_aov DECIMAL(12,2), base_take_rate DECIMAL(7,4), expected_refund_rate DECIMAL(7,4), fulfillment_index DECIMAL(10,2));
+CREATE TABLE fact_marketplace_orders (order_id BIGINT PRIMARY KEY, order_date DATE NOT NULL, seller_id INTEGER NOT NULL REFERENCES dim_seller(seller_id), category_name VARCHAR(50) NOT NULL REFERENCES dim_category(category_name), units INTEGER NOT NULL, unit_price DECIMAL(12,2) NOT NULL, gmv DECIMAL(14,2) NOT NULL, take_rate DECIMAL(7,4) NOT NULL, marketplace_revenue DECIMAL(14,2) NOT NULL, refund_flag INTEGER NOT NULL, refund_amount DECIMAL(14,2) NOT NULL, payment_fee DECIMAL(14,2) NOT NULL, support_cost DECIMAL(14,2) NOT NULL, fulfillment_cost DECIMAL(14,2) NOT NULL, promo_cost DECIMAL(14,2) NOT NULL, contribution_margin DECIMAL(14,2) NOT NULL);
+CREATE INDEX idx_marketplace_order_date ON fact_marketplace_orders(order_date);
+CREATE INDEX idx_marketplace_seller ON fact_marketplace_orders(seller_id);
+CREATE INDEX idx_marketplace_category ON fact_marketplace_orders(category_name);

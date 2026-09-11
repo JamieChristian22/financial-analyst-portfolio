@@ -1,0 +1,19 @@
+# Project QA Checklist
+- [x] Order-level fact data
+- [x] Seller/category dimensions
+- [x] Corporate Excel model
+- [x] Executive dashboard/KPI scorecard
+- [x] Seller and category economics
+- [x] Unit economics / refund leakage
+- [x] Forecast/scenarios
+- [x] Growth / fulfillment / working capital analysis
+- [x] SQL / Python
+- [x] Power BI / Tableau documentation
+- [x] Controls / data dictionary
+- [x] Interview / resume materials
+- [x] Synthetic-data disclosure
+- [x] README embeds dashboard/KPI visual evidence
+- [x] Recruiter one-page summary
+- [x] Monthly business review playbook
+- [x] Analytics architecture documentation
+- [x] Interview defense guide with synthetic-data disclosure

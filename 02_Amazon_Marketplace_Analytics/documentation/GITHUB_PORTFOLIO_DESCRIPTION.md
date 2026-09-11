@@ -1,0 +1,2 @@
+# GitHub Portfolio Description
+Corporate-style marketplace analytics project analyzing seller performance, GMV, take rate, marketplace revenue, refund leakage, category profitability, contribution margin, unit economics, promotion efficiency, fulfillment costs, working capital, and forecast scenarios using Excel, SQL, Python, Power BI/DAX, and Tableau-ready documentation.
