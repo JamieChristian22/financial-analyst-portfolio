@@ -16,11 +16,33 @@
 
 ---
 
+## Start here — review the financial models and decisions
+
+| Project | Core finance question | Inspect |
+| --- | --- | --- |
+| [01 · FP&A executive dashboard](01_FPA_Executive_Dashboard/README.md) | What explains actual-vs-budget and actual-vs-forecast variances? | [Corporate planning model](01_FPA_Executive_Dashboard/excel/FPnA_Corporate_Planning_Model.xlsx) · [Dashboard preview](01_FPA_Executive_Dashboard/outputs/executive_dashboard_preview.png) · [Case study](01_FPA_Executive_Dashboard/documentation/CASE_STUDY.md) |
+| [02 · Amazon marketplace analytics](02_Amazon_Marketplace_Analytics/README.md) | Which revenue, category and seller drivers matter? | [Power BI file](02_Amazon_Marketplace_Analytics/dashboards/Amazon_Marketplace_Analytics_Dashboard.pbix) · [Case study](02_Amazon_Marketplace_Analytics/documentation/CASE_STUDY.md) |
+| [03 · Profitability & COGS](03_Profitability_and_COGS_Analysis/README.md) | What drives gross margin and cost pressure? | [Case study](03_Profitability_and_COGS_Analysis/documentation/CASE_STUDY.md) |
+| [04 · Executive financial performance](04_Executive_Financial_Performance/README.md) | How should leadership interpret consolidated financial KPIs? | [Python guidance](04_Executive_Financial_Performance/python/README.md) |
+
+**Executive materials:** [Portfolio executive deck (PDF)](Financial_Analyst_Portfolio_Executive_Deck.pdf) · [Investment memo (PDF)](Financial_Analyst_Portfolio_Investment_Memo.pdf)
+
+### Review and validation expectations
+
+1. Start with the business assumption and defined metrics (revenue, gross profit, EBITDA, growth and variance).
+2. Inspect source data and formula logic; verify that scenarios, budgets and forecasts reconcile with reported outputs.
+3. Compare reported values to SQL/Python outputs where included, then inspect the native Excel/Power BI/Tableau deliverables.
+4. Treat hypothetical companies, forecast assumptions, and scenario outcomes as **portfolio simulations** unless a specific artifact proves otherwise. These are not audited statements or actual client financial performance.
+
+[Portfolio website](https://jamiechristian22.github.io/) · [GitHub profile](https://github.com/JamieChristian22)
+
+---
+
 ## 👋 Overview
 
 Welcome to my **Financial Analyst Portfolio**.
 
-This repository showcases **job-ready, real-world financial analysis projects** demonstrating strong capability across:
+This repository showcases **job-relevant, simulated financial analysis projects** demonstrating strong capability across:
 
 - Financial Planning & Analysis (FP&A)  
 - Budgeting, Forecasting & Rolling Projections  
@@ -132,9 +154,7 @@ financial-analyst-portfolio/
 ├── 04_Executive_Financial_Performance/
 │
 ├── Images/                 → Dashboard screenshots
-├── dashboards/             → Power BI / Tableau files
-│
-├── Financial_Analyst_Portfolio_Executive_Deck.pptx
+├── Financial_Analyst_Portfolio_Executive_Deck.pdf
 ├── Financial_Analyst_Portfolio_Investment_Memo.pdf
 ├── README.md
 ```
