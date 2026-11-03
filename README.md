@@ -170,3 +170,7 @@ financial-analyst-portfolio/
 ---
 
 > This portfolio reflects my commitment to producing **executive-quality, real-world financial analysis** aligned with professional finance teams.
+
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
