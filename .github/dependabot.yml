@@ -1,0 +1,34 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 2
+    groups:
+      action-updates:
+        patterns: ["*"]
+  - package-ecosystem: pip
+    directory: "/01_FPA_Executive_Dashboard/python"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 1
+    groups:
+      python-dependencies:
+        patterns: ["*"]
+  - package-ecosystem: pip
+    directory: "/02_Amazon_Marketplace_Analytics/python"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 1
+    groups:
+      python-dependencies:
+        patterns: ["*"]
+  - package-ecosystem: pip
+    directory: "/03_Profitability_and_COGS_Analysis/python"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 1
+    groups:
+      python-dependencies:
+        patterns: ["*"]
