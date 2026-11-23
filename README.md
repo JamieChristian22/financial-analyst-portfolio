@@ -14,6 +14,8 @@
   FP&A • Financial Modeling • Strategic Finance • Executive Reporting
 </p>
 
+**💜 Support financial-analysis learning resources:** [Sponsor on GitHub](https://github.com/sponsors/JamieChristian22). Contributions can help maintain documented models, data-validation examples, analytical write-ups, and accessible public case studies; support does not influence analysis outcomes.
+
 ---
 
 ## Start here — review the financial models and decisions
